@@ -1,0 +1,129 @@
+@charset 'utf-8';
+body{
+	font-size: 16px;
+	color:#006AFF;
+}
+h1{
+	text-align: center;
+	font-family: 方正姚体,黑体,宋体;
+	font-size: 20px;
+	font-weight: bold;
+	color: darkorange;
+}
+h2{
+	font-family: 黑体;
+	font-size: 16px;
+	font-weight: normal;
+	color:#099;
+}
+p{
+	line-height: 2em;
+}
+.nav{
+	background-color: #9F0;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	font-size: 18px;
+}
+.copyright{
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.tri{
+	width:0px;
+	height: 0px;
+	margin: 2px 10px;
+	border: 10px solid #FF0000;
+	border-bottom: none;
+	border-right-color: transparent;
+	border-left-color: transparent;
+}
+
+#box{
+		min-height: 700px;
+		background-color: lightpink;
+}
+#tao1 li{
+			display:inline-block;
+			height: 420px;
+		width: 400px;
+		background-color:white;
+		border:2px solid purple;
+		margin-left: 50px;
+		margin-bottom: 10px;
+		padding: 10px;
+		}
+		#tao2 li{
+			display:inline-block;
+			height: 420px;
+		width: 400px;
+		background-color:white;
+		border:2px solid purple;
+		margin-left: 50px;
+		margin-bottom: 10px;
+		padding: 10px;
+		}
+		#tao3 li{
+			display:inline-block;
+			height: 420px;
+		width: 400px;
+		background-color:white;
+		border:2px solid purple;
+		margin-left: 50px;
+		margin-bottom: 10px;
+		padding: 10px;
+		}
+		#tao1 h3{
+			white-space:nowrap;
+			overflow:hidden;
+			text-overflow:ellipsis;
+			line-height:32px}
+		li.pictures span{
+			font-weight:bold;
+			color:#666;}
+			li.hot.span{
+				margin-right:10px;
+				color:red;}
+#tao1 li{
+			display:inline-block;
+			height: 420px;
+		width: 400px;
+		background-color:white;
+		border:2px solid purple;
+		margin-left: 50px;
+		margin-bottom: 10px;
+		padding: 10px;
+		}
+		#tao2 li{
+			display:inline-block;
+			height: 420px;
+		width: 400px;
+		background-color:white;
+		border:2px solid purple;
+		margin-left: 50px;
+		margin-bottom: 10px;
+		padding: 10px;
+		}
+		#tao3 li{
+			display:inline-block;
+			height: 420px;
+		width: 400px;
+		background-color:white;
+		border:2px solid purple;
+		margin-left: 50px;
+		margin-bottom: 10px;
+		padding: 10px;
+		}
+		#tao1 h3{
+			white-space:nowrap;
+			overflow:hidden;
+			text-overflow:ellipsis;
+			line-height:32px}
+		#jinglingtu.pictures span{
+			font-weight:bold;
+			color:#666;}
+			li.hot span{
+				margin-right:10px;
+				color:red;}
